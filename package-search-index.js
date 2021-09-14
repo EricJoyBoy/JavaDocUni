@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.esame.lab"},{"l":"com.esame.lab.controller"},{"l":"com.esame.lab.domain"},{"l":"com.esame.lab.repository"},{"l":"com.esame.lab.service"},{"l":"com.example.lab"}];updateSearchResults();
